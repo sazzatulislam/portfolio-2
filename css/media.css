@@ -1,0 +1,88 @@
+
+/*
+=========================================
+        lablet layout
+=========================================
+*/
+
+@media only screen and (min-width:200px) and (max-width:991px){
+    
+    
+    .profile-img
+    {height: 330px; border-radius: 30px;}
+
+    .timeline li h4
+    {font-size: 1.3rem;}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+/*
+=========================================
+    mobile layout
+=========================================
+*/
+
+
+
+
+@media only screen and (min-width:200px) and (max-width:480px){
+    
+    
+    .profile-img
+    {height: 300px; border-radius: 30px; margin-bottom: 20px;}
+
+    
+    
+    
+    .timeline li h4
+    {font-size: 1.3rem;}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+
+
+
+
+
+
+
+
